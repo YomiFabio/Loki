@@ -29,7 +29,7 @@
 
     .container{
 
-        background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7)), url(/img/fundo.jpg);
+        background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7)), url(img/fundo.jpg);
         max-width: 576px;
 
         width: 100%;
@@ -150,7 +150,7 @@
     display: flex;
     flex-direction: column;
 
-     background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7)), url(/img/fundo.jpg);
+     background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7)), url(img/fundo.jpg);
      background-size: cover;
      background-attachment: fixed;
  }
